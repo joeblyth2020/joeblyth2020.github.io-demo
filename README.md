@@ -1,4 +1,4 @@
-his is a simple website hosted on GitHub Pages.
+This is a simple website hosted on GitHub Pages.
 
 ## Overview
 
